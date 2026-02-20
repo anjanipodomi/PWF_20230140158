@@ -1,3 +1,8 @@
+Screenshot tugas 
+<img width="1918" height="943" alt="image" src="https://github.com/user-attachments/assets/7822d8f0-c44c-48e0-aad4-b6dc73d3df4c" />
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
