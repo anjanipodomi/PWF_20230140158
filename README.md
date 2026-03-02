@@ -1,3 +1,16 @@
+Screenshot tugas Praktikum 1
+<img width="1918" height="943" alt="image" src="https://github.com/user-attachments/assets/7822d8f0-c44c-48e0-aad4-b6dc73d3df4c" />
+
+
+Screenshot tugas Praktikum 2
+
+<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/879f13d1-4822-4197-ad41-6c60ea34e0e7" />
+
+<img width="1919" height="944" alt="Screenshot 2026-03-02 123330" src="https://github.com/user-attachments/assets/f53e85b1-3d35-4051-bbbd-6a81216cbba8" />
+
+<img width="1919" height="936" alt="image" src="https://github.com/user-attachments/assets/5b2a1cf3-87c2-43bf-9341-c21bff8976a4" />
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
